@@ -2,3 +2,4 @@
 Лаба1
 Привет!
 ghh
+gfgghgfgf
